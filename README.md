@@ -1,17 +1,17 @@
 # phpprojects
 This is a project of php files with simple examples of using PHP.  Current examples:
-- Simple example webpage.  
+- Simple example webpage, php_example.php 
 <br>
   php_example.php uses php to write html to create a simple web.
 <br>
   It also demonstrates:
 <ol>
 <li>
-puting a long string into an array, 
+Puting a long strings into arrays, 
 <li>
-using preg_split() to split the string into words based on spaces and/or commas,
+Using preg_split("/[\s,]+/", $str1 ) to split a string into words based on spaces and/or commas,
 <li>
-and printing it out 2 different ways, var_dump and print_r.
+Printing it out 2 different ways, var_dump and print_r.
 </ol>
 <br>
 <br>
