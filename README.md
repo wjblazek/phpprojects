@@ -12,6 +12,10 @@ Puting a long strings into arrays,
 Using preg_split("/[\s,]+/", $str1 ) to split a string into words based on spaces and/or commas,
 <li>
 Printing it out 2 different ways, var_dump and print_r.
+<li>
+Text fields values passed to another file.
+<li>
+Radio buttons values passed to another file.
 </ol>
 <br>
 <br>
